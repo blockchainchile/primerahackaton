@@ -22,9 +22,7 @@ El flag `-g` es para la instalación global del paquete
 ```
 npm install -g truffle
 ```
-4) Instalar [metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn). Metamask es un plugin que se agrega en el navegador web Google Chrome. Metamask provee una billetera electrónica de Ether capaz de interactuar con nuestras Đapps.
-```
-Debes crear una cuenta ... listo! ya puedes enviar y recibir Ether. Ten en consideración que metamask permite cambiar la red con la que estas trabajando.
-```
+4) Instalar [metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn). Metamask es un plugin que se agrega en el navegador web Google Chrome. Metamask provee una billetera electrónica de Ether capaz de interactuar con nuestras Đapps. Debes crear una cuenta ... listo! ya puedes enviar y recibir Ether. Ten en consideración que metamask permite cambiar la red con la que estas trabajando.
+
 
 Con estas herramientas instaladas, ya estamos en condiciones de desarrollar y probar nuestras Đapps en nuestro entorno de desarrollo local.
